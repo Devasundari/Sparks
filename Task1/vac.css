@@ -1,0 +1,57 @@
+body{
+    font-family: serif;
+    background: url("bank.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+  table th,td
+  {
+   padding: 5px;
+  }
+  th
+  { 
+    font-size:6mm;
+    background-color: rgb(255, 255, 255);
+    text-shadow: 0.5px 1px rgb(0, 0, 0);
+    color:rgb(0, 0, 0);
+  }
+  td{
+    padding:20px;
+    color: rgb(255, 255, 255);
+    font-weight:800;
+    text-shadow:2px 2px rgb(0, 0, 0);
+  }
+  table
+  {
+    float:center;
+    margin-right: 20%;
+    margin-top: 1.5em;
+    font-size: 7mm;
+    font-weight: 600;
+    padding: 3em;
+    color: rgb(255, 255, 255);
+  }
+  td a
+  {
+    color: rgb(255, 255, 255);
+    text-shadow:1px 1px rgb(8, 8, 8);
+    text-decoration: none;
+    font-size: 6mm;
+    border-radius : 30px;
+    box-shadow: 1px 1px rgb(10, 10, 10);
+    padding: 16px;
+  }
+  td a:hover
+  {
+   
+    color: rgb(0, 208, 255);
+    text-shadow:1px 1px rgb(0, 0, 0);
+  }
+  h2
+  {
+    text-align: center;
+    font-weight: 600;
+    font-size: 9mm;
+    color: rgb(0, 208, 255);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
